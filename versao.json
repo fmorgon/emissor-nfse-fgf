@@ -1,6 +1,6 @@
 {
-  "versao": "1.1.0",
+  "versao": "1.1.1",
   "data": "2026-10-26",
-  "novidades": "Primeira versão publicada: diagnóstico do computador, aviso de nova versão, IBS/CBS na nota, códigos municipais de Rio Preto, Retaguarda com busca no ADN por período.",
+  "novidades": "Correções: o menu da engrenagem (canto inferior esquerdo) não abria em telas mais baixas; e-mail inválido no cadastro (ex.: preenchido pelo navegador) não é mais enviado na nota, evitando a rejeição E0148. O cadastro da empresa agora confere o e-mail e o diagnóstico avisa.",
   "download": "https://github.com/fmorgon/emissor-nfse-fgf/releases/latest/download/EmissorNFSe-portatil.zip"
 }
