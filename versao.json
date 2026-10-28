@@ -1,6 +1,6 @@
 {
-  "versao": "1.1.2",
-  "data": "2026-10-26",
-  "novidades": "Melhoria: botão Voltar em destaque nas páginas de cadastro e edição de empresa (volta para a empresa ou para o painel).",
+  "versao": "1.1.3",
+  "data": "2026-10-28",
+  "novidades": "Correções: empresas de São José do Rio Preto com atividade de código municipal 000 tinham a nota recusada (E0315); agora o código 000 não é enviado. Quando a Receita recusa por falta da empresa no cadastro nacional da prefeitura (E0084), o emissor explica o motivo também no Colar e emitir e no Repetir mês.",
   "download": "https://github.com/fmorgon/emissor-nfse-fgf/releases/latest/download/EmissorNFSe-portatil.zip"
 }
