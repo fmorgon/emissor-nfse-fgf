@@ -1,6 +1,6 @@
 {
-  "versao": "1.1.4",
+  "versao": "1.1.5",
   "data": "2026-11-02",
-  "novidades": "Novidades: prévia completa da nota antes de emitir (Emitir, Colar e emitir, Repetir mês); janela de resultado após emitir em lote; atividades já cadastradas editáveis/removíveis e botão Editar em Serviços e clientes; edição da empresa sem pedir certificado e senha de novo; relatório PDF com a relação de notas e totais no .zip de XML/PDF; código de tributação municipal (Rio Preto) sugerido no cadastro; sugestões de serviço pelo CNAE muito mais precisas; busca no ADN tenta de novo sozinha quando a Receita cai.",
+  "novidades": "O emissor abre sem a janela preta; para encerrar: engrenagem > Fechar o emissor\nRelatório PDF por empresa na pasta de cada empresa no .zip de XML/PDF\nTotais do relatório separados em autorizadas, canceladas e rejeitadas",
   "download": "https://github.com/fmorgon/emissor-nfse-fgf/releases/latest/download/EmissorNFSe-portatil.zip"
 }
